@@ -1,0 +1,9 @@
+
+# DDL
+CREATE DATABASE mlp
+
+# DML
+# CONTEXT-DATABASE: mlp
+
+transaction,brand=sony,user_gender=Female model="L2",area="Ha Noi",user_name="Brooklyn517",quantity=5,store=2,price=2274,user_age=59 2016-04-07 23:40:33
+transaction,brand=sony,user_gender=Female model="XA1",area="Khanh Hoa",user_name="Wayne4",quantity=3,store=7,price=4647,user_age=51 2015-05-02 00:32:45
